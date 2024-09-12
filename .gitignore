@@ -1,6 +1,9 @@
 # github token
 git_token.txt
 
+# setup info
+setup_git.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
